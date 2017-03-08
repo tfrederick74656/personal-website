@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://tfrederick74656.com/sitemaps/index.xml.gz
